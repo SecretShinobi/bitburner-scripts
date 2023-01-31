@@ -6,3 +6,6 @@ This repository is meant to hold all the scripts I wrote for the game. This is k
 
 ## About Bitburner
 Bitburner is an cyberpunk-themed idler where you train your stats and complete missions to progress the story. You can install augmentations that improve your character and help you progress faster, which you can get through factions. The main feature in this game is the ability to write scripts using netscript (bitburner's scripting language) in order to automate repetitive tasks, as opposed to purchasing automation upgrades. This gives bitburner a unique gameplay system by relying on a player's coding ability and math skills in order to play effectively
+
+## About Scripts
+I currently do not have any scripts uploaded, but they will be updated here along with documentation regarding how to use them
